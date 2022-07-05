@@ -1,0 +1,6 @@
+[submodule "memos_backend"]
+	path = memos_backend
+	url = https://github.com/ParadiseWitch/memos_backend
+[submodule "memos_frontend"]
+	path = memos_frontend
+	url = https://github.com/ParadiseWitch/memos_frontend
